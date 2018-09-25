@@ -1,0 +1,24 @@
+_repo: A-Chronicle-of-Jails_57095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Figgis, Darrell
+    alias: Ireland, Michael
+    birthdate: 1882
+    deathdate: 1925
+    gutenberg_agent_id: '35941'
+    url: http://www.gutenberg.org/2009/agents/35941
+    wikipedia: http://en.wikipedia.org/wiki/Darrell_Figgis
+description: ''
+gutenberg_issued: '2018-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Chronicle of Jails
+url: http://www.gutenberg.org/ebooks/57095
